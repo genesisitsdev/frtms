@@ -27,9 +27,7 @@ You should see:
 
 */
 
-/* Or use this example tcp client written in node.js.  (Originated with 
-example code from 
-http://www.hacksparrow.com/tcp-socket-programming-in-node-js.html.) */
+
 
 var net = require('net');
 
